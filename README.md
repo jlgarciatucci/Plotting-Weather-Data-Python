@@ -59,7 +59,7 @@ m
 
 
 ```
-
+<img src="image1weather.png">
 
 
 
@@ -152,10 +152,6 @@ plt.legend(loc = 8, fontsize=10, frameon = False)
 ```
 
 
+<img src="image2weather.png">
 
 
-
-
-```python
-
-```
